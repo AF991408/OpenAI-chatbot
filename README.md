@@ -3,4 +3,4 @@ a chatbot using OpenAI for responses with LangChain architecture and using Flask
 
 1. [Demo Video](ChatBotWebsiteDemo.mp4/)
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/screenshot.png?raw=true "Optional Title")
