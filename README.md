@@ -1,2 +1,4 @@
 # OpenAI-chatbot
-a chatbot, OpenAI for responses , the LangChain architecture , and using Flask for chatbot deployment
+a chatbot using OpenAI for responses with LangChain architecture and using Flask for chatbot deployment
+
+1. [Demo Video](ChatBotWebsiteDemo.mp4/)
