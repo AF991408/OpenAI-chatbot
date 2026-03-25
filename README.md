@@ -1,11 +1,5 @@
 ![CI](https://github.com/AF991408/OpenAI-chatbot/actions/workflows/ci.yml/badge.svg)
 
-1. [Demo Video](https://drive.google.com/file/d/1xWXh6aGthsyM28cToOUJuDWUzSDqoOIR/view?usp=sharing) 
-
-
-
-![image alt](https://github.com/AF991408/OpenAI-chatbot/blob/c2b484fa3928f18e613e16022d21b1b5af2a4ce9/screenshot.png)
-
 
 # Landon Hotel Chatbot
 
@@ -16,6 +10,14 @@ deployed with a full CI pipeline.
 - Conversational chatbot scoped to Landon Hotel queries
 - Flask REST API backend
 - Automated testing and linting on every push via GitHub Actions
+
+
+
+1. [Demo Video](https://drive.google.com/file/d/1xWXh6aGthsyM28cToOUJuDWUzSDqoOIR/view?usp=sharing) 
+
+
+
+![image alt](https://github.com/AF991408/OpenAI-chatbot/blob/c2b484fa3928f18e613e16022d21b1b5af2a4ce9/screenshot.png)
 
 ## Tech Stack
 - Python / Flask
