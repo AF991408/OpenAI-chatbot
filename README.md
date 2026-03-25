@@ -13,7 +13,7 @@ deployed with a full CI pipeline.
 
 
 
-1. [Demo Video](https://drive.google.com/file/d/1xWXh6aGthsyM28cToOUJuDWUzSDqoOIR/view?usp=sharing) 
+[Demo Video](https://drive.google.com/file/d/1xWXh6aGthsyM28cToOUJuDWUzSDqoOIR/view?usp=sharing) 
 
 
 
