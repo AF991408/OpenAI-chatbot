@@ -2,7 +2,7 @@
 
 
 # Landon Hotel Chatbot
-
+Test Video Below
 An AI-powered hotel assistant built with Flask and OpenAI's GPT-3.5, 
 deployed with a full CI pipeline.
 
@@ -11,13 +11,6 @@ deployed with a full CI pipeline.
 - Flask REST API backend
 - Automated testing and linting on every push via GitHub Actions
 
-
-
-[Demo Video](https://drive.google.com/file/d/1xWXh6aGthsyM28cToOUJuDWUzSDqoOIR/view?usp=sharing) 
-
-
-
-![image alt](https://github.com/AF991408/OpenAI-chatbot/blob/c2b484fa3928f18e613e16022d21b1b5af2a4ce9/screenshot.png)
 
 ## Tech Stack
 - Python / Flask
@@ -37,3 +30,10 @@ Every push automatically runs:
 - Dependency installation
 - Code linting with flake8
 - Unit tests with pytest using mocked OpenAI calls
+
+
+[Demo Video](https://drive.google.com/file/d/1xWXh6aGthsyM28cToOUJuDWUzSDqoOIR/view?usp=sharing) 
+
+
+
+![image alt](https://github.com/AF991408/OpenAI-chatbot/blob/c2b484fa3928f18e613e16022d21b1b5af2a4ce9/screenshot.png)
