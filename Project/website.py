@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import openai
-openai.api_key = #insert your api key here
+import os
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 # Load the prompt from the file
 with open('website_text.txt', 'r') as file:
